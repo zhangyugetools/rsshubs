@@ -29,6 +29,9 @@
   "gitHooks": {
     "pre-commit": "npm run format:staged"
   },
+  "engines": {
+  "node": "18.x"
+},
   "author": "DIYgod",
   "license": "MIT",
   "bugs": {
